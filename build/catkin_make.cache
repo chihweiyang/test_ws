@@ -1,0 +1,2 @@
+modbus-master/modbus:teleop_twist_keyboard-master
+-DCATKIN_DEVEL_PREFIX=/home/weber/test_ws/devel -DCMAKE_INSTALL_PREFIX=/home/weber/test_ws/install -G Unix Makefiles
